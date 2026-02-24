@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Thermo Intelligence Agent",
+  "description": "An AI-powered inside sales agent for BPWood\u0027s Thermally Modified Wood program. Handles lead triage, quoting, competitor battlecards, and fire/code support.",
+  "requestFramePermissions": []
+}
